@@ -67,7 +67,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/hjohnson02/arc-theme-gotham.git --depth 1 && cd arc-theme-gotham
+    git clone https://github.com/0xhjohnson/arc-theme-gotham.git --depth 1 && cd arc-theme-gotham
 
 **2. Build and install the theme**
 
@@ -126,7 +126,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bugs
-If you find a bug, please report it at https://github.com/hjohnson02/arc-theme-gotham/issues
+If you find a bug, please report it at https://github.com/0xhjohnson/arc-theme-gotham/issues
 
 ### License
 Arc is available under the terms the GPL-3.0. See `COPYING` for details.
