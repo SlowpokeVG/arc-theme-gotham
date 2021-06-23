@@ -1964,6 +1964,13 @@ StScrollBar {
   background-color: rgba(211, 218, 227, 0.3);
   color: #131C25; }
 
+
+  
+  .calendar {
+    background-color: transparent; /* added this line */
+      margin-bottom: 1em;
+      border: none; }
+
 .message-list {
   width: 31.5em; }
   .message-list-sections {
